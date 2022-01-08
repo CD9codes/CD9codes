@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CD9codes
-- 👀 I’m interested in future technologies...
-- 🌱 I’m currently learning java, web development..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Chitransh Dwivedi
+- 🌱 I’m currently learning java
+
 
 <!---
 CD9codes/CD9codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
