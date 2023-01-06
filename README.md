@@ -1,10 +1,10 @@
 ## Hey, I'm [Chitransh!](https://cd9codes.github.io/)
 
 <a href="https://www.linkedin.com/in/chitransh09/">
-  <img align="left" width="50px" src="https://img.icons8.com/color/2x/linkedin-circled.png" />
+  <img align="left" width="33px" src="https://img.icons8.com/color/2x/linkedin-circled.png" />
 </a>
 <a href="https://twitter.com/cd9twts">
-  <img align="left" width="50px" src="https://img.icons8.com/fluency/2x/twitter.png" />
+  <img align="left" width="33px" src="https://img.icons8.com/fluency/2x/twitter.png" />
 </a>
 <a href="mailto:chitransh0929@gmail.com">
   <img align="left" width="50px" src="https://i.ibb.co/pdt54NY/Gmail-logo.png" alt="Gmail-logo">
