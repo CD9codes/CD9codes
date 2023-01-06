@@ -1,4 +1,4 @@
-## Hey, I'm [Chitransh!](https://cd9codes.github.io/)
+## Hey, I'm Chitransh !!
 
 <a href="https://www.linkedin.com/in/chitransh09/">
   <img align="left" width="33px" src="https://img.icons8.com/color/2x/linkedin-circled.png" />
